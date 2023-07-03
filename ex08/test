@@ -1,1 +1,1 @@
--print -d -iname <pattern> -path <pattern>
+-print -depth -iname <pattern> -delete
